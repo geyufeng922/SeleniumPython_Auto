@@ -1,0 +1,18 @@
+2020-12-09 17:12:01,678 ---->user_log.py ----><module> 10:DEBUG -----> tests123456 
+2020-12-09 17:13:23,735 ---->user_log.py ----><module> 10:DEBUG -----> tests123456 
+2020-12-09 17:19:24,648 ---->user_log.py ----><module> 10:DEBUG -----> tests123456 
+2020-12-09 17:21:36,466 ---->user_log.py ----><module> 10:DEBUG -----> tests123456 
+2020-12-09 17:33:39,532 ---->user_log.py ----><module> 10:DEBUG -----> tests123456 
+2020-12-09 17:34:46,348 ---->user_log.py ----><module> 10:DEBUG -----> tests123456 
+2020-12-09 17:49:37,478 ---->user_log.py ----><module> 10:DEBUG -----> tes
+2020-12-09 17:50:16,415 ---->user_log.py ----><module> 10:DEBUG -----> test 
+2020-12-09 17:53:17,423 ---->user_log.py ----><module> 10:DEBUG -----> test 
+2020-12-09 17:57:21,706 ---->user_log.py ----><module> 10:DEBUG -----> test 
+2020-12-09 18:01:56,435 ---->remote_connection.py ---->_request 10:DEBUG -----> POST http://127.0.0.1:50658/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "platformName": "any", "goog:chromeOptions": {"extensions": [], "args": []}}}, "desiredCapabilities": {"browserName": "chrome", "version": "", "platform": "ANY", "goog:chromeOptions": {"extensions": [], "args": []}}} 
+2020-12-09 18:01:56,436 ---->connectionpool.py ---->_new_conn 10:DEBUG -----> Starting new HTTP connection (1): 127.0.0.1:50658 
+2020-12-09 18:01:59,202 ---->connectionpool.py ---->_make_request 10:DEBUG -----> http://127.0.0.1:50658 "POST /session HTTP/1.1" 200 715 
+2020-12-09 18:01:59,203 ---->remote_connection.py ---->_request 10:DEBUG -----> Finished Request 
+2020-12-09 18:01:59,203 ---->remote_connection.py ---->_request 10:DEBUG -----> POST http://127.0.0.1:50658/session/002178d0cc66fd4a53d46e8b035e75d9/url {"url": "http://www.5itest.cn/register"} 
+2020-12-09 18:02:09,246 ---->connectionpool.py ---->_make_request 10:DEBUG -----> http://127.0.0.1:50658 "POST /session/002178d0cc66fd4a53d46e8b035e75d9/url HTTP/1.1" 200 14 
+2020-12-09 18:02:09,247 ---->remote_connection.py ---->_request 10:DEBUG -----> Finished Request 
+2020-12-09 18:02:09,247 ---->first_case.py ---->setUp 10:DEBUG -----> this is chrome 

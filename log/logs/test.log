@@ -1,0 +1,13 @@
+tests
+tests
+tests
+tests
+2020-12-09 15:42:58,426 user_log.py <module> 10 DEBUG tests123456 
+2020-12-09 15:46:01,336 ---->user_log.py ----><module> 10:  DEBUG -----> tests123456 
+2020-12-09 15:46:25,234 ---->user_log.py ----><module> 10:DEBUG -----> tests123456 
+2020-12-09 16:55:27,522 ---->user_log.py ----><module> 10:DEBUG -----> tests123456 
+2020-12-09 16:56:43,737 ---->user_log.py ----><module> 10:DEBUG -----> tests123456 
+2020-12-09 16:57:55,343 ---->user_log.py ----><module> 10:DEBUG -----> tests123456 
+2020-12-09 17:01:07,747 ---->user_log.py ----><module> 10:DEBUG -----> tests123456 
+2020-12-09 17:06:12,845 ---->user_log.py ----><module> 10:DEBUG -----> tests123456 
+2020-12-09 17:10:12,867 ---->user_log.py ----><module> 10:DEBUG -----> tests123456 
